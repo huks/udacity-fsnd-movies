@@ -1,3 +1,5 @@
+# -*- coding: utf-8 -*-
+
 import fresh_tomatoes
 import media
 
