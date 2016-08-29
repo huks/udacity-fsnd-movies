@@ -31,5 +31,5 @@ class Movie(Video):
     def show_trailer(self):
         """
         Open youtube trailer
-        ""
+        """
         webbrowser.open(self.trailer_youtube_url)
